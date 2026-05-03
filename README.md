@@ -55,6 +55,9 @@ Result
 - The baseline sentiment was mixed but moderately positive (~50% positive aspects).
 - Following a wave of positive reactions to the charity campaign for Cancer Fighters, positive aspects rose to ~68%, and the RHI increased by 24 points—a measurable jump in reputation.
 
+  ![Pasibus](pasibus.png)
+  ![WK_DZIK](wkdzik.png)
+
 Dashboard
 ---
 
@@ -64,6 +67,7 @@ Built in **Power BI**. Key visuals:
 - Stacked bar chart of sentiment distribution per post
 - Aspect breakdown by brand (donut chart)
 - RHI status table with threshold ranges
+  
 ![Dashboard](dashboard_wkdzik_pasibus.png)
 
 Looking ahead
@@ -139,6 +143,10 @@ Wynik
 **WK Dzik**
 - Bazowy sentyment był mieszany, ale umiarkowanie pozytywny (~50% pozytywnych aspektów).
 - Po fali pozytywnych reakcji na akcję charytatywną dla Cancer Fighters pozytywne aspekty wzrosły do ~68%, a RHI podniósł się o 24 punkty — mierzalny skok reputacyjny.
+
+  ![Pasibus](pasibus.png)
+  ![WK_DZIK](wkdzik.png)
+  
 
 Dashboard
 ---
